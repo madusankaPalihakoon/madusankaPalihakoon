@@ -51,11 +51,11 @@
 
 ## 📊 GitHub Stats
 
-![Sanjaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjayamadusanka&show_icons=true&theme=dark&count_private=true)
+![Sanjaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=madusankaPalihakoon&show_icons=true&theme=dark&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sanjayamadusanka&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=madusankaPalihakoon&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayamadusanka&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madusankaPalihakoon&layout=compact&theme=dark)
 
 ---
 
