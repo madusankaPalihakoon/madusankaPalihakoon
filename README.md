@@ -5,10 +5,7 @@
 ---
 
 ## 👨‍💻 About Me
-
-🎓 I hold a **Diploma in ICT** and have experience in both frontend and backend development.  
-💼 My focus is on dynamic user interfaces and scalable backend services.  
-🌱 Constant learner, exploring new tools, frameworks, and open-source contributions.
+I am an enthusiastic and results-driven developer currently pursuing a Bachelor of Technology in Software and Intelligent Systems at the University of Vocational Technology. With over two years of hands-on experience as a Web Developer and Mobile App Developer, I specialize in building user-focused digital solutions that are responsive, scalable, and performance-optimized. I am passionate about creating meaningful software and continuously exploring modern technologies to enhance both frontend and backend development workflows.
 
 ---
 
