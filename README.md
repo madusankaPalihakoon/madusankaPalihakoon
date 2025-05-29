@@ -19,14 +19,16 @@ I am an enthusiastic and results-driven developer currently pursuing a Bachelor 
 
 ### 🔧 Backend Development
 - **Node.js**
+- **Django**
 - **PHP**
 - **Laravel**
 
 ### 🗃️ Database Management
 - **MySQL**
+- **PostgreSQL**
 
 ### 🔄 Version Control
-- **Git** (GitHub, GitLab)
+- **Git** (GitHub)
 
 ### 🌐 API Design & Integration
 - **RESTful APIs**
